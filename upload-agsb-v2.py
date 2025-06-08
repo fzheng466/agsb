@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "fengzheng"         # 用户名
 UUID = "302e5a5a-f84f-45b0-9d1d-a8b0cf6dd397"                     # UUID，留空则自动生成
 PORT = 4999                   # Vmess端口，留空或0则自动生成
-DOMAIN = " comfyui.fengzheng.dpdns.org"                   # 域名，留空则自动获取
+DOMAIN = " fz.fengzheng.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiMmYzYTU3ZjYzMDM0ZGJkY2NjMjcwZGJkZDA2YzkxYjEiLCJ0IjoiMDQ4ZGYxMjEtYTU0NC00MWFlLWE4OWItYWI1NWEwZDk5NTJiIiwicyI6Ik1tTTBZamRqTldVdE56azVNeTAwT1RBMExUaG1PRFV0TTJZNE9EVmxZV1l4WVRZdyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
