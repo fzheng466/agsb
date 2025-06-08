@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "fengzheng"         # 用户名
 UUID = "a91b59b6-ade4-497d-b4e9-88d184c48048"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
+DOMAIN = " fengzheng.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiMmYzYTU3ZjYzMDM0ZGJkY2NjMjcwZGJkZDA2YzkxYjEiLCJ0IjoiMDQ4ZGYxMjEtYTU0NC00MWFlLWE4OWItYWI1NWEwZDk5NTJiIiwicyI6Ik1tTTBZamRqTldVdE56azVNeTAwT1RBMExUaG1PRFV0TTJZNE9EVmxZV1l4WVRZdyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
